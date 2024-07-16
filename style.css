@@ -1,0 +1,36 @@
+.introContainer{
+    border:solid blue;
+    display:flex;
+    /* height:20vh; */
+    justify-content: space-between;
+}
+
+.circle{
+    border:solid grey;
+    height:120px;
+    width:120px;
+    border-radius:50%;
+    margin:15px;
+}
+.intro{
+    border:solid green;
+    width:60%;
+    margin:1em;
+}
+
+.infoContainer{
+    border:solid blue;
+    margin:1em;
+    height:80vh;
+    display:flex;
+}
+
+.dropContainer{
+    border:solid black;
+    margin:1em;
+    width:40%;
+}
+.displayContainer{
+    border:solid purple;margin:1em;
+    width:60%;
+}
